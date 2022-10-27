@@ -3,8 +3,6 @@ Adds QR Code support for swt platform. For other platform use https://github.com
 
 Important links:
 
-Important Links:
-
 https://asheracordova.github.io/
 
 https://asheracordova.github.io/doc/help-doc.html
